@@ -1,6 +1,8 @@
 # Online Retail Strategy & Customer Behavior Optimization
 
-![ai-generated-retail-store-selling-merchandise-with-shopping-carts-indoors-generated-by-ai-free-photo](https://github.com/user-attachments/assets/d8f47b35-24d7-429b-a2b3-b23c95c75ccf)
+<img width="1024" height="592" alt="1770653343787-cdf31b24-d1c6-4221-9bcc-6c5be6548c2f_1" src="https://github.com/user-attachments/assets/d79c6fea-3e4e-48ec-9239-794794de2dfd" />
+<img width="1024" height="592" alt="1770653343787-cdf31b24-d1c6-4221-9bcc-6c5be6548c2f_2" src="https://github.com/user-attachments/assets/8ca92f2e-40e6-4575-88aa-5ab7e9e05c5a" />
+<img width="1024" height="592" alt="1770653343787-cdf31b24-d1c6-4221-9bcc-6c5be6548c2f_3" src="https://github.com/user-attachments/assets/0fa13c65-500b-4cd6-9c4c-1274b226f106" />
 
 ## Project Overview
 
