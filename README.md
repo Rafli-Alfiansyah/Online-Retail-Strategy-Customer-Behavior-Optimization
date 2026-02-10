@@ -48,6 +48,7 @@ Customers were categorized into segments such as **Champions**, **Loyal Customer
 
 ## 📁 Project Structure
 
-* `Online_Retail_Analysis.sql`: Full SQL script containing ETL, EDA, and RFM logic.
-* `Strategy_Presentation.pdf`: Detailed business case study and strategic roadmap.
-* `Dashboard_Preview.png`: High-resolution captures of the Power BI reporting suite.
+* `Online Retail Customer Behavior Affinity Analysis.sql`: Full SQL script containing ETL, EDA, and RFM logic.
+* `Online Retail Strategy & Customer Behavior Optimization.pdf`: Detailed business case study and strategic roadmap.
+* `Online_Retail_RFM_Analysis_Dashboard.pdf`: High-resolution captures of the Power BI reporting suite.
+* `Online Retail.xlsx` : The processed transaction data (500k+ rows) used for the analysis.
